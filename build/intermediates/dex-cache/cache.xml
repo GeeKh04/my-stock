@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\zxing\1.8.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\pre-dexed\debug\me.dm7.barcodescanner-zxing-1.8.4_608b202cf7a17733ca653261177cd18c9bfe2f0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_084548f2e7564f28fe0a1a306c36ed93f71af24e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\libs\ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d6e6d14301616c866b7eff210ece6579299417ec">
+        <dex dex="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.5.8-jar-with-dependencies_6d5f3c079f616590de90cdb662fdb58bac952de5.jar" />
+    </item>
+    <item
+        jar="C:\Users\ipc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1_608555f563e587c457a1853d54ad13a561e10226.jar" />
+    </item>
+    <item
+        jar="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0-alpha1_6f5c67afeb53f12373d9d91a6dbb841f93fdd378.jar" />
+    </item>
+    <item
+        jar="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0-alpha1_487d9734dc580dc7f901bd0aa4079985594d12a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-alpha1_f83a2836a2dc6ea3a101aa339a9778d1eae373dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8f65e6101c990702ad4178f592291354eb0cf2c7">
+        <dex dex="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\pre-dexed\debug\com.github.clans-fab-1.6.3_80562af13401eba0b28752ef43744152392b1ad7.jar" />
+    </item>
+    <item
+        jar="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\core\1.8.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\pre-dexed\debug\me.dm7.barcodescanner-core-1.8.4_2a4afba84c0dda19776aff0085827c627ef60dba.jar" />
+    </item>
+    <item
+        jar="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1_5db670ac802f80ab384b023944101064997f5d12.jar" />
+    </item>
+    <item
+        jar="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_8ebe4e475b4647331f3b468122e5555301a658bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\exploded-aar\com.amulyakhare\com.amulyakhare.textdrawable\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\pre-dexed\debug\com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_ce14c5a11261cb2726deb48724718a046d9214d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\ipc\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\ipc\Desktop\MyStock\Code Source\MyStock\app\build\intermediates\pre-dexed\debug\core-3.2.1_e8cc9b2e044ea285c9484975ad69f09f8689f305.jar" />
+    </item>
+
+</items>

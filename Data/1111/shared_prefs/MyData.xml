@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="EstabID">1111</string>
+    <string name="EstabName">1111:Warehouse01</string>
+    <string name="UserID">123456</string>
+    <string name="UserName">Storekeeper01</string>
+    <string name="MyIP">127.0.0.1:1010</string>
+</map>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    <TableLayout
+        android:id="@+id/tableLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="7dp"
+        android:layout_marginTop="10dp">
+        <TextView
+            android:id="@+id/textWarehouse"
+            android:textSize="18sp"/>
+        <!-- First Row -->
+        <TableRow>
+
+            <TextView
+                android:background="@drawable/row_header_color"
+                android:text="@string/item_code"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:padding="5dp"/>
+
+            <TextView
+                android:background="@drawable/row_header_color"
+                android:text="@string/item_label"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:padding="5dp"/>
+
+            <TextView
+                android:background="@drawable/row_header_color"
+                android:text="@string/item_category"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:padding="5dp"/>
+
+            <TextView
+                android:background="@drawable/row_header_color"
+                android:text="@string/item_family"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:padding="5dp"/>
+
+            <TextView
+                android:background="@drawable/row_header_color"
+                android:text="@string/item_subfamily"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:padding="5dp"/>
+
+            <TextView
+                android:background="@drawable/row_header_color"
+                android:text="@string/item_unit"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:padding="5dp" />
+
+            <TextView
+                android:background="@drawable/row_header_color"
+                android:text="@string/item_quantity"
+                android:textSize="18sp"
+                android:gravity="center"
+                android:padding="5dp"/>
+        </TableRow>
+        <!-- Second Row -->
+    </TableLayout>
+    </HorizontalScrollView>
+</ScrollView>
+
+

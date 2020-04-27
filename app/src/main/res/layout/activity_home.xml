@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallpaper"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/profile_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:elevation="4dp"
+            android:paddingBottom="24dp">
+            <ImageButton
+                android:id="@+id/user_profile_photo"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="45dp"
+                android:background="@drawable/user_img"
+                android:elevation="5dp"
+                android:padding="16dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/logo" />
+            <TextView
+                android:id="@+id/user_profile_name"
+                android:layout_below="@+id/user_profile_photo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="18sp"
+                android:elevation="15dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/estab_profile_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/user_profile_name"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="12dp"
+                android:textColor="@color/colorAccent"
+                android:textSize="16sp" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/profile_layout"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top|center_horizontal"
+                android:layout_marginBottom="20dip"
+                android:text="@string/home_title"
+                android:textSize="25sp" />
+
+            <Button
+                android:id="@+id/btnView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top"
+                android:theme="@style/MyButton"
+                android:text="@string/home_btn_view"
+                android:textColor="@color/white"
+                android:background="@drawable/my_button_bg"
+                android:drawableLeft="@drawable/ic_view_32"
+                android:paddingLeft="15dp"
+                android:contextClickable="true" />
+
+            <Button
+                android:id="@+id/btnSearch"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top"
+                android:theme="@style/MyButton"
+                android:text="@string/home_btn_search"
+                android:textColor="@color/white"
+                android:background="@drawable/my_button_bg"
+                android:drawableLeft="@drawable/ic_search_32"
+                android:paddingLeft="15dp"
+                android:contextClickable="true" />
+
+            <Button
+                android:id="@+id/btnPrint"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top"
+                android:theme="@style/MyButton"
+                android:text="@string/home_btn_print"
+                android:textColor="@color/white"
+                android:background="@drawable/my_button_bg"
+                android:drawableLeft="@drawable/ic_print_32"
+                android:paddingLeft="15dp"
+                android:contextClickable="true" />
+
+            <Button
+                android:id="@+id/btnDrop"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top"
+                android:theme="@style/MyButton"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/home_btn_drop"
+                android:textColor="@color/white"
+                android:paddingLeft="15dp"
+                android:drawableLeft="@drawable/ic_clear_32"/>
+
+            <Button
+                android:id="@+id/btnSignOut"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_gravity="bottom"
+                android:theme="@style/MyButton"
+                android:background="@drawable/my_button_bg2"
+                android:text="@string/home_btn_signout"
+                android:drawableLeft="@drawable/ic_signout_32"
+                android:paddingLeft="15dp"
+                android:contextClickable="true" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyStock</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="title_activity_login">MyStock</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_estabnumber">NoEtab</string>
+    <string name="IP">192.168.1.1</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login">Se connecter</string>
+    <string name="error_field_login">Login Erroné</string>
+    <string name="error_invalid_estabnumber">Numéro d\'établissement invalide</string>
+    <string name="error_invalid_password">Mot de passe invalide</string>
+    <string name="error_invalid_estabnumber_or_password">NoEtab ou Mot de passe incorrect</string>
+    <string name="error_field_required">Champ vide</string>
+    <string name="error_field_CInternet">Un problème d\'accès à l\'Internet</string>
+    <string name="error_field_CServer">Un problème de connexion avec le serveur</string>
+    <string name="warehouse">Depot : </string>
+    <!-- Strings related to activity -->
+    <string name="title_activity_warehouse">Les Depots</string>
+    <string name="title_activity_category">Les Catégories</string>
+    <string name="title_activity_family">Les Familles</string>
+    <string name="title_activity_subfamily">Les Sous Familles</string>
+    <string name="title_activity_items">Les Articles</string>
+    <string name="title_activity_item">Les infos de l\'Article</string>
+    <string name="title_activity_search">Recherche</string>
+    <string name="title_activity_add">Ajout de l\'Article</string>
+    <string name="adding_article">Ajout d\'article &#8230;</string>
+    <string name="title_activity_print">Imprime</string>
+    <string name="navigation_drawer_open"></string>
+    <string name="navigation_drawer_close"></string>
+    <string name="no_items">Aucun élément à afficher</string>
+
+    <string name="added_successfully">Ajout effectuee avec succes</string>
+    <string name="item_exists">Article existe!</string>
+    <string name="add_not_made">Ajout non effectuee!</string>
+    <string name="validate">Valider</string>
+    <string name="confirm">Confirmer</string>
+    <string name="cancel">Annuler</string>
+    <string name="searching">Rechecher &#8230;</string>
+    <string name="updating_data">Mise à jour des données &#8230;</string>
+    <string name="sending_data_to_the_server">Envoie de Mise à jour au Serveur &#8230;</string>
+    <string name="offline_mode">Hors Connexion</string>
+    <string name="connected">Connecté</string>
+    <string name="connected_on_offline_mode">Connecté en mode offline</string>
+    <string name="connecting">Authentification &#8230;</string>
+    <!--message box -->
+    <string name="delete_local_base">Suppression de la Base locale</string>
+    <string name="delete_local_base_confirmation">Voulez-vous vraiment vider votre base de données locale ?</string>
+    <string name="logout">Déconnexion</string>
+    <string name="logout_confirmation">Souhaitez-vous vraiment vous déconnecter ?</string>
+    <string name="ip_configuration">Configuration de l\'IP</string>
+    <string name="your_ip_address">Votre Adresse IP</string>
+    <string name="saved_ip">IP sauvegardé: </string>
+    <string name="no_change">Pas de changement : </string>
+    <string name="incorrect_ip">IP Incorrecte</string>
+    <string name="change_ip_btn">Changer IP</string>
+    <string name="set_ip_btn">Saisir IP</string>
+    <string name="set_ip_confirmation">Pas d\'adresse IP ,Voulez-vous Saisir l\'IP ?</string>
+    <string name="change_incorrect_ip_confirmation">est Incorrect Voulez-vous changer l\'IP?</string>
+    <string name="send_modification">Envoie de la modification</string>
+    <string name="send_modification_later_confirmation">L\'Envoie n\'est pas effectuée, Voulez-vous envoyer votre dernière modification ultérieurement ?</string>
+    <string name="send_modification_confirmation">Voulez-vous envoyer votre dernière modification des données locals ?</string>
+
+    <string name="empty_base">Base Vidée</string>
+    <string name="base_not_found">Base non trouvée</string>
+    <string name="server_not_found">Serveur non trouvée</string>
+    <string name="server_connexion_failed">Probleme de Connexion avec serveur : </string>
+    <string name="sent_successfully">Envoie effectuee avec succes</string>
+    <string name="sent_unsuccessfully">Envoie n\'est pas effectuée</string>
+    <!-- Scanner -->
+    <string name="scanner_activity">MyStock - Scanner Article</string>
+    <string name="toggle_flash">Flash</string>
+    <string name="flash_on">Flash [ON]</string>
+    <string name="flash_off">Flash [OFF]</string>
+    <string name="auto_focus_on">Auto Focus [ON]</string>
+    <string name="auto_focus_off">Auto Focus [OFF]</string>
+    <string name="formats">Formats</string>
+    <string name="choose_formats">Choisir Formats</string>
+    <string name="select_camera">Selectionner une Caméra</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Annuler</string>
+    <string name="ask_for_camera_permission">S\'il vous plaît accorder la permission de la caméra pour utiliser le Scanner QR</string>
+    <!-- Home -->
+    <string name="home_title">Inventaire Menu</string>
+    <string name="home_btn_view">Consulter l\'Inventaire</string>
+    <string name="home_btn_search">Rechercher l\'Article</string>
+    <string name="home_btn_scan">Scanner Article</string>
+    <string name="home_btn_print">Imprimer l\'Inventaire</string>
+    <string name="home_btn_drop">Initialiser la Base locale</string>
+    <string name="home_btn_signout">Déconnexion</string>
+
+    <!-- Activity : AddArticle -->
+    <string name="item_code">Code</string>
+    <string name="item_warehouse">Depot</string>
+    <string name="item_barcode">CodeBarre</string>
+    <string name="item_label">Libelle</string>
+    <string name="item_category">Categorie</string>
+    <string name="item_family">Famille</string>
+    <string name="item_subfamily">Sous Famille</string>
+    <string name="item_unit">Unite</string>
+    <string name="item_quantity">Quantité</string>
+
+    <!-- Activity : Button -->
+    <string name="btn_cancel">Annuler</string>
+    <string name="btn_add">Ajouter</string>
+    <string name="btn_edit">Modifier</string>
+    <string name="btn_search">Rechercher</string>
+    <string name="fab_filter">Filtrer la consultation</string>
+    <string name="fab_yes">Oui</string>
+    <string name="fab_no">Non</string>
+</resources>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyStock</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">MyStock</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_estabnumber">EstabNumber</string>
+    <string name="IP">192.168.1.1</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login">Login</string>
+    <string name="error_field_login">Login failed</string>
+    <string name="error_invalid_estabnumber">Invalid EstabNumber</string>
+    <string name="error_invalid_password">Invalid password</string>
+    <string name="error_invalid_estabnumber_or_password">Invalid EstabNumber or Password</string>
+    <string name="error_field_required">Required Field</string>
+    <string name="error_field_CInternet">Internet access problem</string>
+    <string name="error_field_CServer">Connection problem with the server</string>
+    <string name="warehouse">Warehouse : </string>
+    <!-- Strings related to activity -->
+    <string name="title_activity_warehouse">Warehouses</string>
+    <string name="title_activity_category">Categories</string>
+    <string name="title_activity_family">Families</string>
+    <string name="title_activity_subfamily">SubFamilies</string>
+    <string name="title_activity_items">Items</string>
+    <string name="title_activity_item">Item info</string>
+    <string name="title_activity_search">Search</string>
+    <string name="title_activity_add">Add item</string>
+    <string name="adding_article">Adding item &#8230;</string>
+    <string name="title_activity_print">Print</string>
+    <string name="navigation_drawer_open"></string>
+    <string name="navigation_drawer_close"></string>
+    <string name="no_items">No items to display</string>
+
+    <string name="added_successfully">Added successfully</string>
+    <string name="item_exists">Item already exists!</string>
+    <string name="add_not_made">Addition not made!w</string>
+    <string name="validate">Submit</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="searching">Searching &#8230;</string>
+    <string name="updating_data">Updating data &#8230;</string>
+    <string name="sending_data_to_the_server">Sending data to the server &#8230;</string>
+    <string name="offline_mode">Offline Mode</string>
+    <string name="connected">Connected</string>
+    <string name="connected_on_offline_mode">Connected on offline mode</string>
+    <string name="connecting">Authentication &#8230;</string>
+    <!--message box -->
+    <string name="delete_local_base">Delete local database</string>
+    <string name="delete_local_base_confirmation">Are you sure you want to drop your local database ?</string>
+    <string name="logout">Logout</string>
+    <string name="logout_confirmation">Do you really want to logout?</string>
+    <string name="ip_configuration">IP configuration</string>
+    <string name="your_ip_address">Your IP Address</string>
+    <string name="saved_ip">Saved IP : </string>
+    <string name="no_change">No change : </string>
+    <string name="incorrect_ip">Incorrect IP</string>
+    <string name="change_ip_btn">Change IP</string>
+    <string name="set_ip_btn">Set IP</string>
+    <string name="set_ip_confirmation">No IP address, Do you want to enter the IP?</string>
+    <string name="change_incorrect_ip_confirmation">is incorrect, Do you want to change the IP?</string>
+    <string name="send_modification">Send modification</string>
+    <string name="send_modification_later_confirmation">Sending is not carried out, Do you want to send your last modification later?</string>
+    <string name="send_modification_confirmation">Do you want to send your last local data modification?</string>
+
+    <string name="empty_base">Empty base</string>
+    <string name="base_not_found">Base not found</string>
+    <string name="server_not_found">Server not found</string>
+    <string name="server_connexion_failed">Connection problem with server: </string>
+    <string name="sent_successfully">Sent successfully</string>
+    <string name="sent_unsuccessfully">Sending is not carried out</string>
+    <!-- Scanner -->
+    <string name="scanner_activity">MyStock - Scan Item</string>
+    <string name="toggle_flash">Flash</string>
+    <string name="flash_on">Flash [ON]</string>
+    <string name="flash_off">Flash [OFF]</string>
+    <string name="auto_focus_on">Auto Focus [ON]</string>
+    <string name="auto_focus_off">Auto Focus [OFF]</string>
+    <string name="formats">Formats</string>
+    <string name="choose_formats">Choose Formats</string>
+    <string name="select_camera">Select Camera</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="ask_for_camera_permission">Please grant camera permission to use the QR Scanner</string>
+    <!-- Home -->
+    <string name="home_title">Inventory Menu</string>
+    <string name="home_btn_view">Consult the Inventory</string>
+    <string name="home_btn_search">Find Item</string>
+    <string name="home_btn_scan">Scan Item</string>
+    <string name="home_btn_print">Print Inventory</string>
+    <string name="home_btn_drop">Drop the Local Base</string>
+    <string name="home_btn_signout">Logout</string>
+
+    <!-- Activity : AddItem -->
+    <string name="item_code">Code</string>
+    <string name="item_warehouse">Warehouse</string>
+    <string name="item_barcode">BarCode</string>
+    <string name="item_label">Label</string>
+    <string name="item_category">Category</string>
+    <string name="item_family">Family</string>
+    <string name="item_subfamily">SubFamily</string>
+    <string name="item_unit">Unit</string>
+    <string name="item_quantity">Quantity</string>
+
+    <!-- Activity : Button -->
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_search">Search</string>
+    <string name="fab_filter">Filter the consultation</string>
+    <string name="fab_yes">Yes</string>
+    <string name="fab_no">No</string>
+</resources>
