@@ -28,6 +28,10 @@
 
 ## Installation
 
+### Built With
+
+* [AndroidStudio](https://developer.android.com/) - Android Studio
+
 ### Clone
 
 - Clone this repo to your local machine using `https://github.com/GeeKh04/my-stock`
