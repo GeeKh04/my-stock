@@ -30,7 +30,8 @@
 
 ### Built With
 
-* [AndroidStudio](https://developer.android.com/) - Android Studio
+* [AndroidStudio](https://developer.android.com/) - Android Studio v3.5.2
+* [Gradle](https://developer.android.com/studio/releases/gradle-plugin) - Gradle v3.0.1
 
 ### Clone
 
